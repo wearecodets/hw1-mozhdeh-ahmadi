@@ -1,4 +1,6 @@
 # Homework One
 
-Remember to participate in the code review session next Thursday. If you are unclear about how to request a review on pull request, consult [this document](https://help.github.com/en/articles/requesting-a-pull-request-review).
+> :clock9: **Due:** June 29 @ 9 am \
+> :mag_right: **Code Review:** June 27 \
+> Unclear about requesting a PR review? [See this document](https://help.github.com/en/articles/requesting-a-pull-request-review).
 
