@@ -1,8 +1,8 @@
 # Homework One
 
-> :clock9:&nbsp; &nbsp; **Due:** June 29 @ 9 am
+> :clock9:&nbsp; &nbsp; **Due:** Saturday, June 29 @ 9 am
 >
-> :mag_right:&nbsp; &nbsp; **Code Review:** June 27 
+> :mag_right:&nbsp; &nbsp; **Code Review:** Thursday, June 27 
 >
 > Still unclear about requesting a PR review? [See this document](https://github.com/wearecodets/phase-two/blob/master/week-zero/about.md#homework-pull-requests).
 
