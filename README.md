@@ -8,7 +8,7 @@
 
 ## Objective
 
-After completing this homework, you should end up with four new files in this repo: `googling.md`, `terminal.md`, `github.md` and `forking.md`. Push your `answer` branch up for a PR review. 
+After completing this homework, you should end up with four new files in this repo: `googling.md`, `terminal.md`, `github.md` and `forking.md`. Push your `answer` branch up for a PR review on Thursday. 
 
 If you are finished with this homework early, go ahead and proceed to preparing for [next week](https://github.com/wearecodets/phase-two/tree/master/week-two). It will be a pretty packed week.
 
