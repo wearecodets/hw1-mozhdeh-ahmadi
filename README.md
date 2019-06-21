@@ -10,7 +10,7 @@
 
 After completing this homework, you should have four new files in this repo: `googling.md`, `terminal.md`, `github.md` and `forking.md`. Push your `answer` branch up for a PR review no later than Thursday. 
 
-If you are finished with this homework early, go ahead and proceed to preparing for [next week](https://github.com/wearecodets/phase-two/tree/master/week-two). It will be a pretty packed week, if you are absolutely new to programming.
+If you finish early with this homework, go ahead and prepare for [next week](https://github.com/wearecodets/phase-two/tree/master/week-two). It will be a pretty packed week, especially if you are new to programming.
 
 ## Directions
 
