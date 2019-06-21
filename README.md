@@ -4,7 +4,7 @@
 >
 > :mag_right:&nbsp; &nbsp; **Code Review:** Thursday, June 27 
 >
-> Still unclear about requesting a PR review? [See the course info](https://github.com/wearecodets/phase-two/blob/master/week-zero/about.md#homework-pull-requests).
+> Still unclear about requesting a PR review? [See the course info](https://github.com/wearecodets/phase-two/blob/master/week-zero/about.md#homework-pull-request).
 
 ## Objective
 
