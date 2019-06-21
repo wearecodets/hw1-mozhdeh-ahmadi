@@ -1,10 +1,11 @@
-## Code Review 
+🚨 REMEMBER
 
-Together, we will review the work you have done so far. Please include these information when submitting a code review PR:
+1️⃣ We will review together the work you have done so far. 
 
-  * What was most challenging about this homework so far? 
+2️⃣ Add my name in the Reviewers section in the right sidebar 👉👉👉
+
+3️⃣ Answer these reflection questions before each PR:
+
+  * What was most challenging about the homework so far? 
+
   * How did you solve it?
-
-## Requesting Instructor Review
-
-Remember to ask for a review by adding your instructor's name under the Reviewers section in the right sidebar 👉👉👉
