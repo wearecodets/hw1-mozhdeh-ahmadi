@@ -34,4 +34,4 @@ cd .. rm -rf  project-to-delegate
 
 ### I'm in projects_to_delegate. What four commands do I need to type to remove the cleaning.txt file?
 
-cd  .. cd ..  cd rm  cleaning.txt
+cd  .. cd ..  cd  home/rm  cleaning.txt
